@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wqUfsEkqa4428WasTYyPCqOvJ1QIMM5fADGCzpIsfEOS/VtGU3o+XW04tqXZn9xt6y+uhJOMQ60sW0IhlbToUQ==",
+  "success": true,
+  "projectFilePath": "/home/kaden/Projects/Network/NetworkTools/NetworkTools.csproj",
+  "expectedPackageFiles": [
+    "/home/kaden/.nuget/packages/spectre.console/0.46.0/spectre.console.0.46.0.nupkg.sha512",
+    "/home/kaden/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
