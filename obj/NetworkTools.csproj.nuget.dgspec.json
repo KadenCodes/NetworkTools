@@ -38,6 +38,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "SharpPcap": {
+              "target": "Package",
+              "version": "[6.2.5, )"
+            },
             "spectre.console": {
               "target": "Package",
               "version": "[0.46.0, )"

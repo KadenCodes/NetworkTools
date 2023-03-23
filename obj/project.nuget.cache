@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "wqUfsEkqa4428WasTYyPCqOvJ1QIMM5fADGCzpIsfEOS/VtGU3o+XW04tqXZn9xt6y+uhJOMQ60sW0IhlbToUQ==",
+  "dgSpecHash": "xmc5m8wAYURXgNC2tTE5Hy4Eey5NQl+4AQm49FyTHWc0SBfi32bHCjI0Yzu+RgXlrZ7r6hbKt486ElpBRD2tIA==",
   "success": true,
   "projectFilePath": "/home/kaden/Projects/Network/NetworkTools/NetworkTools.csproj",
   "expectedPackageFiles": [
+    "/home/kaden/.nuget/packages/packetdotnet/1.4.6/packetdotnet.1.4.6.nupkg.sha512",
+    "/home/kaden/.nuget/packages/sharppcap/6.2.5/sharppcap.6.2.5.nupkg.sha512",
     "/home/kaden/.nuget/packages/spectre.console/0.46.0/spectre.console.0.46.0.nupkg.sha512",
-    "/home/kaden/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+    "/home/kaden/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/home/kaden/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/kaden/.nuget/packages/system.text.encoding.codepages/6.0.0/system.text.encoding.codepages.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

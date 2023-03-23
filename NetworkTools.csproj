@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="SharpPcap" Version="6.2.5" />
     <PackageReference Include="spectre.console" Version="0.46.0" />
   </ItemGroup>
 
